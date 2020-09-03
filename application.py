@@ -20,9 +20,9 @@ import random
 
 database_instance_endpoint="database-1.cbdtmbvqb5se.us-east-1.rds.amazonaws.com"
 port=3306
-dbname="test2"
-user="root"
-password="Sanket123"
+dbname=""
+user=""
+password=""
 
 conn = pymysql.connect(database_instance_endpoint,
                       user = user,
