@@ -1,0 +1,2356 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700,400,300,500');
+
+
+.bp1-dinein2 {
+  width               : 100%;
+  min-width           : 414px;
+  height              : 100vh;
+  min-height          : 1541px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-dinein2 .bp1-bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : 110px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-bitmap .bp1-mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 110px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  object-fit          : cover;
+}
+.bp1-dinein2 .bp1-bitmap .bp1-bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -165px;
+  height              : 280px;
+  width               : 420px;
+  position            : absolute;
+  margin              : 0;
+  left                : -7px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 46px;
+  box-sizing          : border-box;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-searchthick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 24px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-searchthick .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 22px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(-8deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-share1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 345px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-share1 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-combinedshapecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 12px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-back {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-tabscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1454px;
+  height              : 88px;
+  width               : 416px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tabscopy .bp1-tabs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 416px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tabscopy .bp1-tabs .bp1-rectangle5 {
+  background-color    : rgba(246, 246, 246, 1.0);
+  top                 : 0px;
+  height              : 88px;
+  box-sizing          : border-box;
+  width               : 416px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(212, 212, 212, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tabscopy .bp1-tabs .bp1-searchthick1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 33px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tabscopy .bp1-tabs .bp1-searchthick1 .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 29px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(-8deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tabscopy .bp1-tabs .bp1-share11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 29px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tabscopy .bp1-tabs .bp1-share11 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 29px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tabscopy .bp1-tabs .bp1-soundicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 28px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 330px;
+  transform           : rotate(-270deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tabscopy .bp1-tabs .bp1-soundicon .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tabscopy .bp1-tabs .bp1-soundicon .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 12px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tabscopy .bp1-tabs .bp1-combinedshape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 31px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 248px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 23px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 312px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rectangle1 {
+  background-color    : rgba(240, 240, 240, 1.0);
+  top                 : 128px;
+  height              : 71px;
+  box-sizing          : border-box;
+  width               : 71px;
+  position            : absolute;
+  margin              : 0;
+  left                : 319px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-elu2019scafe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 156px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 329px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-elu2019scafe1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 173px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.09px;
+  line-height         : 19.0px;
+}
+.bp1-dinein2 .bp1-a243floweravebrea {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 203px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a1000reviews {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 246px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.07px;
+  line-height         : 14.0px;
+}
+.bp1-dinein2 .bp1-rating {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 246px;
+  height              : 13px;
+  width               : 73px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1 .bp1-rectangle5 {
+  background-color    : rgba(255, 202, 57, 1.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1 .bp1-starbluecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1 .bp1-starbluecopy3 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy .bp1-rectangle5 {
+  background-color    : rgba(255, 202, 57, 1.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy .bp1-starbluecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy .bp1-starbluecopy3 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy2 .bp1-rectangle5 {
+  background-color    : rgba(255, 202, 57, 1.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy2 .bp1-starbluecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy2 .bp1-starbluecopy3 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy3 .bp1-rectangle5 {
+  background-color    : rgba(255, 202, 57, 1.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy3 .bp1-starbluecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy3 .bp1-starbluecopy3 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy4 .bp1-rectangle5 {
+  background-color    : rgba(183, 183, 183, 1.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy4 .bp1-starbluecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rating .bp1-star1copy4 .bp1-starbluecopy3 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 288px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-reviews {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 288px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 95px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-line5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 310px;
+  height              : 1px;
+  width               : 415px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-line5copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 736px;
+  height              : 1px;
+  width               : 415px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-line5copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 861px;
+  height              : 1px;
+  width               : 415px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-dinein {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 344px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.09px;
+  line-height         : 19.0px;
+}
+.bp1-dinein2 .bp1-change {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 347px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 343px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(10, 132, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-line6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 286px;
+  height              : 20px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-refinebtun {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 390px;
+  height              : 32px;
+  width               : 96px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-refinebtun .bp1-buttonoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 96px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-refinebtun .bp1-buttonoutline .bp1-rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 96px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-refinebtun .bp1-buttonoutline .bp1-sun83020 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-refinebtuncopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 390px;
+  height              : 32px;
+  width               : 96px;
+  position            : absolute;
+  margin              : 0;
+  left                : 218px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-refinebtuncopy .bp1-buttonoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 96px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-refinebtuncopy .bp1-buttonoutline .bp1-rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 96px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-refinebtuncopy .bp1-buttonoutline .bp1-table12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-opennow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 390px;
+  height              : 32px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-opennow .bp1-buttonoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 84px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-opennow .bp1-buttonoutline .bp1-rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-opennow .bp1-buttonoutline .bp1-a130pm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-button {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 390px;
+  height              : 32px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 322px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-button .bp1-buttonoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 74px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-button .bp1-buttonoutline .bp1-rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-button .bp1-buttonoutline .bp1-a2people {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 57px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-rectangle2 {
+  background-color    : rgba(230, 230, 230, 1.0);
+  top                 : 449px;
+  height              : 242px;
+  width               : 415px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 461px;
+  height              : 216px;
+  width               : 367px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-ovalcopy9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 124px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-ovalcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 145px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-ovalcopy10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 145px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-ovalcopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 166px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-ovalcopy11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 166px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-ovalcopy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 187px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-ovalcopy12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 187px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-ovalcopy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 210px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-ovalcopy13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 210px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-ovalcopy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 231px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-ovalcopy14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 231px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 91px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-ovalcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 91px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-ovalcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 112px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-ovalcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 112px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  box-sizing          : border-box;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectanglecopy8 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 170px;
+  height              : 46px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectanglecopy15 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 85px;
+  height              : 46px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectanglecopy2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectanglecopy9 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 170px;
+  height              : 46px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectanglecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  box-sizing          : border-box;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 114px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectanglecopy10 {
+  background-color    : rgba(50, 197, 255, 1.0);
+  top                 : 170px;
+  height              : 46px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 114px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectanglecopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  box-sizing          : border-box;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 171px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectanglecopy11 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 170px;
+  height              : 46px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 171px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectanglecopy5 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 228px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectanglecopy12 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 170px;
+  height              : 46px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 228px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectanglecopy6 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 285px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectanglecopy13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 170px;
+  height              : 46px;
+  box-sizing          : border-box;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 285px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectanglecopy7 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 342px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectanglecopy14 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 170px;
+  height              : 46px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 342px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectanglecopy16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 85px;
+  height              : 46px;
+  box-sizing          : border-box;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 342px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-tables .bp1-rectangle11 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 86px;
+  height              : 46px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : 121px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 478px;
+  height              : auto;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 478px;
+  height              : auto;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 83px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 478px;
+  height              : auto;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 141px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 478px;
+  height              : auto;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 198px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 478px;
+  height              : auto;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 255px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 478px;
+  height              : auto;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 313px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 478px;
+  height              : auto;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 369px;
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 562px;
+  height              : auto;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 562px;
+  height              : auto;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 369px;
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 646px;
+  height              : auto;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 646px;
+  height              : auto;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 82px;
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 646px;
+  height              : auto;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 139px;
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 646px;
+  height              : auto;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 196px;
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 646px;
+  height              : auto;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 252px;
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 646px;
+  height              : auto;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 308px;
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-a16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 646px;
+  height              : auto;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 367px;
+  transform           : rotate(0deg);
+  opacity             : 0.7;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-reserveorder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 775px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.09px;
+  line-height         : 19.0px;
+}
+.bp1-dinein2 .bp1-yourfoodbroughtou {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 804px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-eatingicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 760px;
+  height              : 77px;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-person {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 54px;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-person .bp1-oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 34px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-person .bp1-combinedshape2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 5px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-person .bp1-combinedshapecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 38px;
+  height              : 14px;
+  width               : 30px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-person .bp1-combinedshape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 33px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-person .bp1-oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-person .bp1-ovalcopy15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-person .bp1-cuisineicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 29px;
+  height              : 16px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-person .bp1-oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 43px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-person .bp1-ovalcopy16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 43px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-person .bp1-line7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 2px;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-burger {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : 36px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-burger .bp1-oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 20px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-burger .bp1-ovalcopy17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : 9px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-burger .bp1-ovalcopy18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 10px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-burger .bp1-ovalcopy19 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 10px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-burger .bp1-ovalcopy20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 18px;
+  height              : 10px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-burger .bp1-ovalcopy21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 11px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-burger .bp1-path5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 6px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(23deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-eatingicon .bp1-burger .bp1-path5copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 10px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(10deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-completebutn {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1395px;
+  height              : 60px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-completebutn .bp1-completereservation {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 129px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.09px;
+  line-height         : 19.0px;
+  /* animation           : color-change 1s infinite; */
+}
+.bp1-dinein2 .bp1-completebutn .bp1-rectangle5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 60px;
+  box-sizing          : border-box;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(173, 173, 173, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-contentcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 922px;
+  height              : 421px;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-contentcopy .bp1-listcontentcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 421px;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-contentcopy .bp1-menu1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 61px;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-contentcopy .bp1-menu1 .bp1-chickensalad {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-contentcopy .bp1-menu1 .bp1-ranchdressingwith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.06px;
+  line-height         : 13.0px;
+}
+.bp1-dinein2 .bp1-contentcopy .bp1-menu1copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 126px;
+  height              : 61px;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-contentcopy .bp1-menu1copy .bp1-salmonroll {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-contentcopy .bp1-menu1copy .bp1-ranchdressingwith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.06px;
+  line-height         : 13.0px;
+}
+.bp1-dinein2 .bp1-contentcopy .bp1-menu1copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 233px;
+  height              : 61px;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-contentcopy .bp1-menu1copy2 .bp1-fruitpancakes {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-contentcopy .bp1-menu1copy2 .bp1-ranchdressingwith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.06px;
+  line-height         : 13.0px;
+}
+.bp1-dinein2 .bp1-contentcopy .bp1-menu1copy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 340px;
+  height              : 61px;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-contentcopy .bp1-menu1copy3 .bp1-mushroomburger {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-dinein2 .bp1-contentcopy .bp1-menu1copy3 .bp1-ranchdressingwith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.06px;
+  line-height         : 13.0px;
+}
+.bp1-dinein2 .bp1-addordercopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 876px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.09px;
+  line-height         : 19.0px;
+}
+.bp1-dinein2 .bp1-combinedshapecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 878px;
+  height              : 14px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 106px;
+  transform           : rotate(-90deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rectangle3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 45px;
+  width               : 115px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-dinein2 .bp1-rectangle4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1455px;
+  height              : 69px;
+  width               : 79px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+
+
+
+
+

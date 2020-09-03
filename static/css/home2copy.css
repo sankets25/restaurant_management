@@ -1,0 +1,1895 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700,400,300,500');
+
+
+.bp1-home2copy {
+  width               : 100%;
+  min-width           : 414px;
+  height              : 100vh;
+  min-height          : 896px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-home2copy .bp1-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  flex-direction      : row;
+  top                 : -63px;
+  align-items         : center;
+  height              : 1055px;
+  width               : 487px;
+  justify-content     : center;
+  position            : absolute;
+  flex-wrap           : wrap;
+  margin              : 0;
+  display             : flex;
+  left                : -31px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-searchrestaurantcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 62px;
+  height              : 60px;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-searchrestaurantcopy .bp1-rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 60px;
+  width               : 396px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-searchrestaurantcopy .bp1-combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 24px;
+  height              : 12px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-searchrestaurantcopy .bp1-restaurants {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 48px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-home2copy .bp1-searchrestaurantcopy .bp1-sanjoseca {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : auto;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 130px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-home2copy .bp1-rectangle1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 731px;
+  height              : 86px;
+  width               : 424px;
+  position            : absolute;
+  margin              : 0;
+  left                : -5px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 742px;
+  height              : 4px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 189px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 86px;
+  height              : 12px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 368px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-group .bp1-oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-group .bp1-ovalcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-group .bp1-ovalcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-group .bp1-line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 2px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-group .bp1-line2copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-group .bp1-line2copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 2px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 753px;
+  height              : 32px;
+  width               : 376px;
+  position            : absolute;
+  margin              : 0;
+  left                : 19px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtun {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 96px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtun .bp1-filtersicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 10px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 17px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtun .bp1-filtersicon .bp1-line4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 1px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtun .bp1-filtersicon .bp1-line4copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 1px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtun .bp1-filtersicon .bp1-oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtun .bp1-filtersicon .bp1-ovalcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtun .bp1-filtersicon .bp1-oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtun .bp1-filtersicon .bp1-oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtun .bp1-buttonoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 96px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtun .bp1-buttonoutline .bp1-rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 96px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtun .bp1-buttonoutline .bp1-refine {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtuncopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 96px;
+  position            : absolute;
+  margin              : 0;
+  left                : 198px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtuncopy .bp1-buttonoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 96px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtuncopy .bp1-buttonoutline .bp1-rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 96px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtuncopy .bp1-buttonoutline .bp1-cuisines {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-home2copy .bp1-listcontent .bp1-refinebtuncopy .bp1-cuisineicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 10px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-button {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 302px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-button .bp1-buttonoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-button .bp1-buttonoutline .bp1-rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 74px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-button .bp1-buttonoutline .bp1-price {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 28px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-home2copy .bp1-listcontent .bp1-button .bp1-dotsicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : 3px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-button .bp1-dotsicon .bp1-oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-button .bp1-dotsicon .bp1-ovalcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-button .bp1-dotsicon .bp1-ovalcopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-opennow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 106px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-opennow .bp1-buttonoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 84px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-opennow .bp1-buttonoutline .bp1-rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 32px;
+  width               : 84px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-listcontent .bp1-opennow .bp1-buttonoutline .bp1-opennow1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-home2copy .bp1-tabs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 809px;
+  height              : 88px;
+  width               : 416px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-tabs .bp1-tabs1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 416px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-tabs .bp1-tabs1 .bp1-rectangle2 {
+  background-color    : rgba(246, 246, 246, 1.0);
+  top                 : 0px;
+  height              : 88px;
+  box-sizing          : border-box;
+  width               : 416px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(212, 212, 212, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-tabs .bp1-tabs1 .bp1-searchthick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 33px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-tabs .bp1-tabs1 .bp1-searchthick .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 29px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(-8deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-tabs .bp1-tabs1 .bp1-share1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 29px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-tabs .bp1-tabs1 .bp1-share1 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 29px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-tabs .bp1-tabs1 .bp1-soundicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 28px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 330px;
+  transform           : rotate(-270deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-tabs .bp1-tabs1 .bp1-soundicon .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-tabs .bp1-tabs1 .bp1-soundicon .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 12px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-tabs .bp1-tabs1 .bp1-combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 31px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 248px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-ordertypecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 40px;
+  width               : 383px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-ordertypecopy2 .bp1-searchrestaurant {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 129px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-ordertypecopy2 .bp1-searchrestaurant .bp1-rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 129px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-ordertypecopy2 .bp1-searchrestaurant .bp1-pickup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(10, 132, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-home2copy .bp1-ordertypecopy2 .bp1-searchrestaurantcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 129px;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-ordertypecopy2 .bp1-searchrestaurantcopy2 .bp1-rectangle2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 40px;
+  box-sizing          : border-box;
+  width               : 129px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(0, 122, 254, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-ordertypecopy2 .bp1-searchrestaurantcopy2 .bp1-delivery {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 131, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-home2copy .bp1-ordertypecopy2 .bp1-searchrestaurantcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 129px;
+  position            : absolute;
+  margin              : 0;
+  left                : 254px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-ordertypecopy2 .bp1-searchrestaurantcopy3 .bp1-rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 129px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-home2copy .bp1-ordertypecopy2 .bp1-searchrestaurantcopy3 .bp1-dinein {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 101px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.bp2-iphonesecopy7 {
+  width               : 100%;
+  min-width           : 375px;
+  height              : 100vh;
+  min-height          : 812px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-iphonesecopy7 .bp2-rectanglecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  flex-direction      : row;
+  top                 : -79px;
+  align-items         : center;
+  height              : 1055px;
+  width               : 487px;
+  justify-content     : center;
+  position            : absolute;
+  flex-wrap           : wrap;
+  margin              : 0;
+  display             : flex;
+  left                : -25px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-rectanglecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 665px;
+  height              : 154px;
+  width               : 385px;
+  position            : absolute;
+  margin              : 0;
+  left                : -5px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-groupcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 12px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 343px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-groupcopy .bp2-oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-groupcopy .bp2-ovalcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-groupcopy .bp2-ovalcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-groupcopy .bp2-line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 2px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-groupcopy .bp2-line2copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-groupcopy .bp2-line2copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 2px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 687px;
+  height              : 31px;
+  width               : 357px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtun {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtun .bp2-filtersicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 10px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtun .bp2-filtersicon .bp2-line4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 1px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 8px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtun .bp2-filtersicon .bp2-line4copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 1px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtun .bp2-filtersicon .bp2-oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtun .bp2-filtersicon .bp2-ovalcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 4px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtun .bp2-filtersicon .bp2-oval1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtun .bp2-filtersicon .bp2-oval2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 2px;
+  width               : 2px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtun .bp2-buttonoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtun .bp2-buttonoutline .bp2-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtun .bp2-buttonoutline .bp2-refine {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 39px;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtuncopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 186px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtuncopy .bp2-buttonoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtuncopy .bp2-buttonoutline .bp2-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 93px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtuncopy .bp2-buttonoutline .bp2-cuisines {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 29px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-refinebtuncopy .bp2-cuisineicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 10px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-button {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 285px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-button .bp2-buttonoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-button .bp2-buttonoutline .bp2-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-button .bp2-buttonoutline .bp2-price {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 27px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-button .bp2-dotsicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 3px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-button .bp2-dotsicon .bp2-oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-button .bp2-dotsicon .bp2-ovalcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 5px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-button .bp2-dotsicon .bp2-ovalcopy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-opennow {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 81px;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-opennow .bp2-buttonoutline {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 81px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-opennow .bp2-buttonoutline .bp2-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 81px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-listcontentcopy .bp2-opennow .bp2-buttonoutline .bp2-opennow1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 9px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy7 .bp2-searchrestaurantcopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 61px;
+  height              : 57px;
+  width               : 369px;
+  position            : absolute;
+  margin              : 0;
+  left                : 3px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-searchrestaurantcopy4 .bp2-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 57px;
+  width               : 369px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-searchrestaurantcopy4 .bp2-combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 12px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-searchrestaurantcopy4 .bp2-restaurants {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy7 .bp2-searchrestaurantcopy4 .bp2-sanjoseca {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 122px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy7 .bp2-linecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 676px;
+  height              : 4px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 170px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-tabscopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 740px;
+  height              : 73px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-tabscopy3 .bp2-tabs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 73px;
+  width               : 377px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-tabscopy3 .bp2-tabs .bp2-rectangle {
+  background-color    : rgba(246, 246, 246, 1.0);
+  top                 : 0px;
+  height              : 73px;
+  box-sizing          : border-box;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(212, 212, 212, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-tabscopy3 .bp2-tabs .bp2-searchthick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 30px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-tabscopy3 .bp2-tabs .bp2-searchthick .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 26px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(-8deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-tabscopy3 .bp2-tabs .bp2-share1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 25px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 133px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-tabscopy3 .bp2-tabs .bp2-share1 .bp2-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 25px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-tabscopy3 .bp2-tabs .bp2-soundicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 26px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 297px;
+  transform           : rotate(-270deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-tabscopy3 .bp2-tabs .bp2-soundicon .bp2-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 25px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-tabscopy3 .bp2-tabs .bp2-soundicon .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 11px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-tabscopy3 .bp2-tabs .bp2-combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 27px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 221px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-ordertypecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 36px;
+  width               : 354px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-ordertypecopy2 .bp2-searchrestaurant {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-ordertypecopy2 .bp2-searchrestaurant .bp2-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 120px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-ordertypecopy2 .bp2-searchrestaurant .bp2-pickup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(10, 132, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy7 .bp2-ordertypecopy2 .bp2-searchrestaurantcopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 117px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-ordertypecopy2 .bp2-searchrestaurantcopy2 .bp2-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  box-sizing          : border-box;
+  width               : 120px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(0, 122, 254, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-ordertypecopy2 .bp2-searchrestaurantcopy2 .bp2-delivery {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 131, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy7 .bp2-ordertypecopy2 .bp2-searchrestaurantcopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 235px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-ordertypecopy2 .bp2-searchrestaurantcopy3 .bp2-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 120px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy7 .bp2-ordertypecopy2 .bp2-searchrestaurantcopy3 .bp2-dinein {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : 119px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+@media screen and (max-width: 413px) {
+  .bp2-iphonesecopy7 {
+    display             : block;
+  }
+  .bp1-home2copy {
+    display             : none;
+  }
+}
+@media screen and (min-width: 414px) {
+  .bp2-iphonesecopy7 {
+    display             : none;
+  }
+  .bp1-home2copy {
+    display             : block;
+  }
+}

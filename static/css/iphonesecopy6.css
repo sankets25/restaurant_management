@@ -1,0 +1,2367 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:700,400,300,500');
+
+
+.bp1-pickupdelivery2 {
+  width               : 100%;
+  min-width           : 414px;
+  height              : 100vh;
+  min-height          : 1102px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp1-pickupdelivery2 .bp1-line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 742px;
+  height              : 4px;
+  width               : 35px;
+  position            : absolute;
+  margin              : 0;
+  left                : 189px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-content {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 488px;
+  height              : 421px;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-content .bp1-listcontentcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 421px;
+  width               : 374px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-content .bp1-menu1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 61px;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-content .bp1-menu1 .bp1-chickensalad {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-pickupdelivery2 .bp1-content .bp1-menu1 .bp1-ranchdressingwith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.06px;
+  line-height         : 13.0px;
+}
+.bp1-pickupdelivery2 .bp1-content .bp1-menu1copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 126px;
+  height              : 61px;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-content .bp1-menu1copy .bp1-salmonroll {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-pickupdelivery2 .bp1-content .bp1-menu1copy .bp1-ranchdressingwith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.06px;
+  line-height         : 13.0px;
+}
+.bp1-pickupdelivery2 .bp1-content .bp1-menu1copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 233px;
+  height              : 61px;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-content .bp1-menu1copy2 .bp1-fruitpancakes {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-pickupdelivery2 .bp1-content .bp1-menu1copy2 .bp1-ranchdressingwith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.06px;
+  line-height         : 13.0px;
+}
+.bp1-pickupdelivery2 .bp1-content .bp1-menu1copy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 340px;
+  height              : 61px;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-content .bp1-menu1copy3 .bp1-mushroomburger {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-pickupdelivery2 .bp1-content .bp1-menu1copy3 .bp1-ranchdressingwith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.06px;
+  line-height         : 13.0px;
+}
+.bp1-pickupdelivery2 .bp1-bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : 110px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-bitmap .bp1-mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 110px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  object-fit          : cover;
+}
+.bp1-pickupdelivery2 .bp1-bitmap .bp1-bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -165px;
+  height              : 280px;
+  width               : 420px;
+  position            : absolute;
+  margin              : 0;
+  left                : -7px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 46px;
+  box-sizing          : border-box;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-searchthick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 24px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-searchthick .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 22px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(-8deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-share1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 345px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-share1 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-combinedshapecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 12px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-back {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-pickupdelivery2 .bp1-combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 23px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 312px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rectangle1 {
+  background-color    : rgba(255, 205, 169, 1.0);
+  top                 : 128px;
+  height              : 71px;
+  box-sizing          : border-box;
+  width               : 71px;
+  position            : absolute;
+  margin              : 0;
+  left                : 319px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-elu2019scafe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 156px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 329px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-pickupdelivery2 .bp1-elu2019scafe1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 173px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.09px;
+  line-height         : 19.0px;
+}
+.bp1-pickupdelivery2 .bp1-a243floweravebrea {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 203px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-pickupdelivery2 .bp1-a1000reviews {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 246px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.07px;
+  line-height         : 14.0px;
+}
+.bp1-pickupdelivery2 .bp1-rating {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 246px;
+  height              : 13px;
+  width               : 73px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1 .bp1-rectangle3 {
+  background-color    : rgba(255, 202, 57, 1.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1 .bp1-starbluecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1 .bp1-starbluecopy3 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy .bp1-rectangle3 {
+  background-color    : rgba(255, 202, 57, 1.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy .bp1-starbluecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy .bp1-starbluecopy3 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy2 .bp1-rectangle3 {
+  background-color    : rgba(255, 202, 57, 1.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy2 .bp1-starbluecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy2 .bp1-starbluecopy3 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy3 .bp1-rectangle3 {
+  background-color    : rgba(255, 202, 57, 1.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy3 .bp1-starbluecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy3 .bp1-starbluecopy3 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy4 .bp1-rectangle3 {
+  background-color    : rgba(183, 183, 183, 1.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy4 .bp1-starbluecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-rating .bp1-star1copy4 .bp1-starbluecopy3 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 288px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-pickupdelivery2 .bp1-reviews {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 288px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 95px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-pickupdelivery2 .bp1-line5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 310px;
+  height              : 1px;
+  width               : 415px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-line5copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 419px;
+  height              : 1px;
+  width               : 415px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-pickupasap3040m {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 344px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.09px;
+  line-height         : 19.0px;
+}
+.bp1-pickupdelivery2 .bp1-sepecialnoteisspe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 369px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.07px;
+  line-height         : 14.0px;
+}
+.bp1-pickupdelivery2 .bp1-change {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 347px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 343px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(10, 132, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp1-pickupdelivery2 .bp1-line6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 286px;
+  height              : 20px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-addorder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 442px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.09px;
+  line-height         : 19.0px;
+}
+.bp1-pickupdelivery2 .bp1-combinedshapecopy1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 444px;
+  height              : 14px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 106px;
+  transform           : rotate(-90deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-tabscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1015px;
+  height              : 88px;
+  width               : 416px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-tabscopy .bp1-tabs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 416px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-tabscopy .bp1-tabs .bp1-rectangle3 {
+  background-color    : rgba(246, 246, 246, 1.0);
+  top                 : 0px;
+  height              : 88px;
+  box-sizing          : border-box;
+  width               : 416px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(212, 212, 212, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-tabscopy .bp1-tabs .bp1-searchthick1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 33px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-tabscopy .bp1-tabs .bp1-searchthick1 .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 29px;
+  width               : 23px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(-8deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-tabscopy .bp1-tabs .bp1-rectangle11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 53px;
+  width               : 56px;
+  position            : absolute;
+  margin              : 0;
+  left                : 44px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-tabscopy .bp1-tabs .bp1-share11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 29px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 148px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-tabscopy .bp1-tabs .bp1-share11 .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 29px;
+  width               : 29px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-tabscopy .bp1-tabs .bp1-soundicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 28px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 330px;
+  transform           : rotate(-270deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-tabscopy .bp1-tabs .bp1-soundicon .bp1-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 28px;
+  width               : 19px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-tabscopy .bp1-tabs .bp1-soundicon .bp1-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 12px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-tabscopy .bp1-tabs .bp1-combinedshape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 31px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 248px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-completeordercopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 966px;
+  height              : 50px;
+  width               : 416px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-completeordercopy .bp1-rectangle3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  box-sizing          : border-box;
+  width               : 416px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(179, 179, 179, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp1-pickupdelivery2 .bp1-completeordercopy .bp1-completeorder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 153px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.09px;
+  line-height         : 19.0px;
+}
+.bp1-pickupdelivery2 .bp1-rectangle2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 45px;
+  width               : 103px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+.bp2-iphonesecopy6 {
+  width               : 100%;
+  min-width           : 375px;
+  height              : 100vh;
+  min-height          : 1058px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.bp2-iphonesecopy6 .bp2-bitmapcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 46px;
+  height              : 110px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-bitmapcopy .bp2-mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 110px;
+  width               : 414px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  object-fit          : cover;
+}
+.bp2-iphonesecopy6 .bp2-bitmapcopy .bp2-bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -165px;
+  height              : 280px;
+  width               : 420px;
+  position            : absolute;
+  margin              : 0;
+  left                : -7px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-rectanglecopy2 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 46px;
+  box-sizing          : border-box;
+  width               : 375px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-share1copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 20px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 302px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-share1copy .bp2-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-combinedshapecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 12px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 21px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-backcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 43px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy6 .bp2-combinedshapecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 23px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 269px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-rectanglecopy3 {
+  background-color    : rgba(255, 205, 168, 1.0);
+  top                 : 128px;
+  height              : 71px;
+  box-sizing          : border-box;
+  width               : 71px;
+  position            : absolute;
+  margin              : 0;
+  left                : 284px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(150, 150, 150, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-elu2019scafecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 156px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 294px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy6 .bp2-group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 173px;
+  height              : 87px;
+  width               : 153px;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-elu2019scafecopy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.09px;
+  line-height         : 19.0px;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-a243floweravebreacopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-a1000reviewscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.07px;
+  line-height         : 14.0px;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : 13px;
+  width               : 73px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1 .bp2-rectangle {
+  background-color    : rgba(255, 202, 57, 1.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1 .bp2-starbluecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1 .bp2-starbluecopy3 .bp2-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy .bp2-rectangle {
+  background-color    : rgba(255, 202, 57, 1.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy .bp2-starbluecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy .bp2-starbluecopy3 .bp2-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy2 .bp2-rectangle {
+  background-color    : rgba(255, 202, 57, 1.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy2 .bp2-starbluecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy2 .bp2-starbluecopy3 .bp2-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 45px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy3 .bp2-rectangle {
+  background-color    : rgba(255, 202, 57, 1.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy3 .bp2-starbluecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy3 .bp2-starbluecopy3 .bp2-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 60px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy4 .bp2-rectangle {
+  background-color    : rgba(183, 183, 183, 1.0);
+  top                 : 0px;
+  height              : 13px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy4 .bp2-starbluecopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-group .bp2-ratingcopy .bp2-star1copy4 .bp2-starbluecopy3 .bp2-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 9px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-aboutcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 288px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 22px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy6 .bp2-reviewscopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 288px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 96px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy6 .bp2-line5copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 310px;
+  height              : 1px;
+  width               : 376px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-line5copy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 419px;
+  height              : 2px;
+  width               : 376px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-pickupasap3040mcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 344px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.09px;
+  line-height         : 19.0px;
+}
+.bp2-iphonesecopy6 .bp2-sepecialnoteisspecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 369px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.07px;
+  line-height         : 14.0px;
+}
+.bp2-iphonesecopy6 .bp2-changecopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 347px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 308px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(10, 132, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy6 .bp2-addordercopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 462px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.09px;
+  line-height         : 19.0px;
+}
+.bp2-iphonesecopy6 .bp2-combinedshapecopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 464px;
+  height              : 14px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 107px;
+  transform           : rotate(-90deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-line6copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 286px;
+  height              : 20px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 79px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-searchthickcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 24px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 337px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-searchthickcopy .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 22px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(-8deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-contentcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 509px;
+  height              : 286px;
+  width               : 355px;
+  position            : absolute;
+  margin              : 0;
+  left                : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-contentcopy .bp2-listcontentcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 286px;
+  width               : 355px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-contentcopy .bp2-menu1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 61px;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-contentcopy .bp2-menu1 .bp2-chickensalad {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy6 .bp2-contentcopy .bp2-menu1 .bp2-ranchdressingwith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.06px;
+  line-height         : 13.0px;
+}
+.bp2-iphonesecopy6 .bp2-contentcopy .bp2-menu1copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 116px;
+  height              : 61px;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-contentcopy .bp2-menu1copy .bp2-salmonroll {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy6 .bp2-contentcopy .bp2-menu1copy .bp2-ranchdressingwith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.06px;
+  line-height         : 13.0px;
+}
+.bp2-iphonesecopy6 .bp2-contentcopy .bp2-menu1copy2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 212px;
+  height              : 61px;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-contentcopy .bp2-menu1copy2 .bp2-fruitpancakes {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy6 .bp2-contentcopy .bp2-menu1copy2 .bp2-ranchdressingwith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.06px;
+  line-height         : 13.0px;
+}
+.bp2-iphonesecopy6 .bp2-tabscopy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 986px;
+  height              : 73px;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-tabscopy3 .bp2-tabs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 73px;
+  width               : 377px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-tabscopy3 .bp2-tabs .bp2-rectangle {
+  background-color    : rgba(246, 246, 246, 1.0);
+  top                 : 0px;
+  height              : 73px;
+  box-sizing          : border-box;
+  width               : 377px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 1px;
+  border-color        : rgba(212, 212, 212, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-tabscopy3 .bp2-tabs .bp2-searchthick {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 30px;
+  width               : 25px;
+  position            : absolute;
+  margin              : 0;
+  left                : 49px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-tabscopy3 .bp2-tabs .bp2-searchthick .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 26px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  transform           : rotate(-8deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-tabscopy3 .bp2-tabs .bp2-share1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 13px;
+  height              : 25px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 133px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-tabscopy3 .bp2-tabs .bp2-share1 .bp2-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 25px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-tabscopy3 .bp2-tabs .bp2-soundicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 16px;
+  height              : 26px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 297px;
+  transform           : rotate(-270deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-tabscopy3 .bp2-tabs .bp2-soundicon .bp2-path {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 25px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-tabscopy3 .bp2-tabs .bp2-soundicon .bp2-shape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : 11px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-tabscopy3 .bp2-tabs .bp2-combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : 27px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : 221px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-completeordercopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 938px;
+  height              : 50px;
+  width               : 378px;
+  position            : absolute;
+  margin              : 0;
+  left                : -2px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-completeordercopy .bp2-rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 50px;
+  box-sizing          : border-box;
+  width               : 378px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(179, 179, 179, 1.0);
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-completeordercopy .bp2-completeorder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 134px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.09px;
+  line-height         : 19.0px;
+}
+.bp2-iphonesecopy6 .bp2-menucard {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 805px;
+  height              : 89px;
+  width               : 354px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-menucard .bp2-restaurantbutncopy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 89px;
+  width               : 354px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-menucard .bp2-menu1copy4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : 59px;
+  width               : 228px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.bp2-iphonesecopy6 .bp2-menucard .bp2-menu1copy4 .bp2-mushroomburger {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : 112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.08px;
+  line-height         : 16.0px;
+}
+.bp2-iphonesecopy6 .bp2-menucard .bp2-menu1copy4 .bp2-ranchdressingwith {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : auto;
+  width               : 230px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.0px;
+  color               : rgba(103, 103, 103, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.06px;
+  line-height         : 13.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-word-break {
+  overflow-wrap       : break-word;
+  word-wrap           : break-word;
+  word-break          : break-all;
+  word-break          : break-word;
+}
+@media screen and (max-width: 413px) {
+  .bp2-iphonesecopy6 {
+    display             : block;
+  }
+  .bp1-pickupdelivery2 {
+    display             : none;
+  }
+}
+@media screen and (min-width: 414px) {
+  .bp2-iphonesecopy6 {
+    display             : none;
+  }
+  .bp1-pickupdelivery2 {
+    display             : block;
+  }
+}

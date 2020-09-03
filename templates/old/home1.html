@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
+        <!-- <link href="static/styles.css" rel="stylesheet"> -->
+        <!-- <script>
+            function startTime() {
+            var today = new Date();
+            var h = today.getHours();
+            var m = today.getMinutes();
+            var s = today.getSeconds();
+            m = checkTime(m);
+            s = checkTime(s);
+            document.getElementById('txt').innerHTML =
+            h + ":" + m + ":" + s;
+            var t = setTimeout(startTime, 500);
+            }
+            function checkTime(i) {
+            if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+            return i;
+            }
+
+            
+            count=-1;
+            var var_count = setInterval(counter, 1000)
+            
+
+            function reset()
+            {
+                count=0;
+            }
+            function counter() {
+                count+=2;
+                document.getElementById('counter').innerHTML = count;
+            }
+
+            var requestsNumber = 1; // The document itself.
+
+            $('link').each(function() {
+            var href = $(this).attr('href');
+
+            if (href && -1 === href.indexOf('http://')) {
+            requestNumber++;
+            document.getElementById('requests').innerHTML = requestNumber;
+            }
+            });
+
+            $('script').each(function() {
+            var src = $(this).attr('src');
+
+            if (src && -1 === src.indexOf('http://')) {
+            requestNumber++;
+            }
+            });
+
+            </script> -->
+
+        <title>Home</title>
+    </head>
+    <body onload="startTime()">
+            <div id="txt" style="font-size:100px;"></div>
+
+
+
+        <div class="container">
+
+            
+
+            <h4>
+                 List
+            </h4> <br>
+
+               <form action="/QuizPractise01" method="post">
+
+                <label>Enter Net Region : </label> <input type="text" name="range1" >
+                <br>
+                <input type="submit" value="Quiestion01" class="btn btn-primary">
+            </form>
+            <br>
+            <br>
+            <form action="/setpage" method="post">
+            <label>Set a Value : </label> <input type="text" name="x" >
+            <input type="submit" value="SET PAGE" class="btn btn-primary">
+            </form>
+            <h1 id="counter">
+            COUNT
+            </h1>
+            <button onclick="reset()" class="btn btn-primary">RESET</button>
+
+            <h1 id="requests"> No of requests :</h1>
+
+            <br>
+            <h4>
+                Updating volcano name
+            </h4> <br>
+            <form action="/withinrange" method="post">
+                <label> Elevation </label><br>
+                <label>Number : </label> <input type="number" name="range1" step="any"><br>
+                <label>Volcano Name: </label> <input type="text" name="range2" step="any"> <br>
+                <input type="submit" value="UPDATE" class="btn btn-primary">
+            </form>
+
+            <h4>
+                within Range
+            </h4> <br>
+            <form action="/box" method="post">
+                <label> Elevation </label><br>
+                <label>Lat1 : </label> <input type="number" name="range1" step="any"><br>
+                <label>Lat2: </label> <input type="number" name="range2" step="any"> <br>
+                <label>Long1 : </label> <input type="number" name="range3" step="any"><br>
+                <label>Long2: </label> <input type="number" name="range4" step="any"> <br>
+                <input type="submit" value="search" class="btn btn-primary">
+            </form>
+            <br>
+        </div>
+    </body>
+</html>

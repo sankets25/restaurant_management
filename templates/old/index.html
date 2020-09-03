@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block app_content %}
+
+<form action="/readFile" method="POST" enctype="multipart/form-data">
+    <h2> Read Text File : </h2>
+
+    <button type = "submit" value="Submit"> Submit </button><br><br>
+</form>
+
+{{ wtf.quick_form(form) }}
+{% endblock %}
